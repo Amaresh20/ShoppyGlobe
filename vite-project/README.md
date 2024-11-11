@@ -15,6 +15,6 @@ Checkout Process: Simple, secure checkout for easy purchases.
 Installation:-
 Clone the repository: git clone https://github.com/Amaresh20/ShoppyGlobe.git
 Install dependencies: npm install
-Run the app: npm start
+Run the app: npm run dev
 Usage
 ShoppyGlobe allows users to browse products, add items to their cart, and proceed to checkout with ease. Ideal for small to mid-size businesses seeking an effective e-commerce solution.
